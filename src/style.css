@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,body {
+    @apply font-sans text-indigo-950 text-base dark:text-indigo-50 dark:bg-indigo-950;
+}
